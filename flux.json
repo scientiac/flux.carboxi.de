@@ -7,5 +7,5 @@
   "siteUrl": "https://flux.3o14.com",
   "showAdvancedFiles": true,
   "syncSettingsToGitHub": true,
-  "sortBy": "recency"
+  "sortBy": "alphabetical"
 }
