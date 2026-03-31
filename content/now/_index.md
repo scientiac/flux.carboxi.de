@@ -14,4 +14,6 @@ Sitting now.
 
 Trying to make a react native app to update this blog on the go via a smartphone easily. [_wish me luck!_] 
 
+Wohoo!
+
 [_Trying_]
