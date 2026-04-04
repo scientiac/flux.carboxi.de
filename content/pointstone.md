@@ -6,3 +6,5 @@ tags = ["self"]
 +++
 
 [_aaaaaaaaaaaaaaaaaaaaaaaaaaaaa_]
+
+![burn.png](/assets/images/burn.png)
