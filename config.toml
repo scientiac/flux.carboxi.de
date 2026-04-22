@@ -19,9 +19,8 @@ taxonomies = [
 ]
 
 # enable code highlighting
-[markdown]
-highlight_code = true
-highlight_theme = "ascetic-white"
+[markdown.highlighting]
+theme = "catppuccin-latte"
 
 # extra stuff
 [extra]
