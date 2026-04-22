@@ -1,7 +1,7 @@
 base_url = "https://flux.3o14.com"
 
 # about me
-author ="flux"
+author = "flux"
 title = "flux:3.14"
 description = "Just a flow of carbons and oxygens in my body."
 
