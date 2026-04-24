@@ -15,6 +15,8 @@ While I failed them, I kept consolidating myself that, **"If I had studied, I'd 
 
 While I had an image of myself as a good student from my past, I failed to realize that I was the worst student of my class. I was at the very end of every result. [_I am not even in the results._]  In the last year, everything started to overload me, I have no time, I made routines, I made plans, I thought I'd do this and that and pass all the subjects that I have failed. But, when the exams started I'd get paralyzed from studying, I feared of not having time, I feared failing, and in order to distract myself I'd binge watch YouTube and movies. In the Seventh Semester, I failed all the back exams I had applied for and even managed to fail on one of the regular subjects. 
 
+[_Making plans and having the mental visualization of what'd be when I finish executing that plan is very mesmerizing in the head. By feeling that I've already done it without even doing anything, I kept procrastinating and making hypothetical and awesome plans instead of actually doing something. It has brought me to this pathetic state in life._]
+
 I don't know what it is, but my brain has adapted to do anything but study when it's time to study. I cannot even comprehend basic mathematics, I give up immediately. This isn't good, I have so many math heavy subjects to pass. Yet, a simple mathematical question exhausts me immediately.
 
 Then there's AI, while I loved to dabble in shell scripts and programs here and there, AI took all my scripting confidence from me. Suddenly I was bad at everything even at what I thought I was good at. I started exclusively using AI to code and I feel like I am too dependent on it. It's similar to how I feel about math. I give up evey easily.
