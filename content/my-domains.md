@@ -26,6 +26,10 @@ for, for some time. But, now it is another blog which I use to write without thi
 too much. It also is like a computer club where I give subdomains to my friends to use.
 And this domain though it doesn't have `space` in it, it has been my safe space.
 
+[_edit: Friday, April 24, I lost this domain because I tried to pay the exact last day the domain was about to expire and didn't realize the domain already expired, because the .de domains usually expire before the said date._]
+
+This is what happens when you ignore the warnings and procrastinate.
+
 Then out of stress I bought [3o14.com](https://3o14.com) in the middle of my ongoing
 exams. I am a nerd and I wanted something that represented me, and it was 'pi' the letter
 that had multiple meanings, not just mathematical [_TT_]. I could not just buy pi.com or 14.com
