@@ -7,4 +7,6 @@ tags = ["self"]
 
 [_aaaaaaaaaaaaaaaaaaaaaaaaaaaaa_]
 
-![burn.png](/assets/images/burn.png)
+- **Throwing sick burns:** A "burn" is a witty insult or a comeback that leaves the other person speechless. "Sick" in this context is slang for excellent, impressive, or intense. To "throw" one just means to deliver it.
+
+- **What's up:** In this specific grammatical structure, it means "what is happening," "what is trendy," or "the way things are."
