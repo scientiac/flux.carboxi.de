@@ -17,7 +17,7 @@ While I had an image of myself as a good student from my past, I failed to reali
 
 I don't know what it is, but my brain has adapted to do anything but study when it's time to study. I cannot even comprehend basic mathematics, I give up immediately. This isn't good, I have so many math heavy subjects to pass. Yet, a simple mathematical question exhausts me immediately.
 
-Then there's AI, while I loved to dabble in shell scripts and programs here and there, AI took all my scripting confidence from me. Suddenly I was bad at everything even at what I thought I was good at. I started exclusively using AI to code and I feel like I am too dependent on it. It's similar to how i feel about math. I give up evey easily.
+Then there's AI, while I loved to dabble in shell scripts and programs here and there, AI took all my scripting confidence from me. Suddenly I was bad at everything even at what I thought I was good at. I started exclusively using AI to code and I feel like I am too dependent on it. It's similar to how I feel about math. I give up evey easily.
 
 This is bad, this is very bad!
 
